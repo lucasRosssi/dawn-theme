@@ -58,7 +58,7 @@
         "text_g9mg6E": {
           "type": "text",
           "settings": {
-            "text": "Check our sustainability efforts<a href=\"https://cdn.shopify.com/s/files/1/0673/5331/3465/files/pdf.pdf?v=1732488300\" target=\"_blank\" title=\"PDF file\">https://cdn.shopify.com/s/files/1/0673/5331/3465/files/pdf.pdf?v=1732488300</a>",
+            "text": "Check our <a href=\"https://cdn.shopify.com/s/files/1/0673/5331/3465/files/pdf.pdf?v=1732488300\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0673/5331/3465/files/pdf.pdf?v=1732488300\">sustainability efforts</a>",
             "text_style": "body"
           }
         }
