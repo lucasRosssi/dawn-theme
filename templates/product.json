@@ -54,6 +54,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "text_g9mg6E": {
+          "type": "text",
+          "settings": {
+            "text": "Check our sustainability efforts<a href=\"https://cdn.shopify.com/s/files/1/0673/5331/3465/files/pdf.pdf?v=1732488300\" target=\"_blank\" title=\"PDF file\">https://cdn.shopify.com/s/files/1/0673/5331/3465/files/pdf.pdf?v=1732488300</a>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -64,7 +71,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "text_g9mg6E"
       ],
       "settings": {
         "enable_sticky_info": true,
