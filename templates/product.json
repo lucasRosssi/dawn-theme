@@ -76,7 +76,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-ad1c8af2-5582-4347-8088-5489cc0d1458",
         "media_size": "large",
         "constrain_to_viewport": true,
         "media_fit": "contain",
@@ -97,7 +97,7 @@
         "heading_size": "h2",
         "products_to_show": 2,
         "columns_desktop": 4,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-ad1c8af2-5582-4347-8088-5489cc0d1458",
         "image_ratio": "square",
         "image_shape": "diamond",
         "show_secondary_image": true,
