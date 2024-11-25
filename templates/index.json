@@ -122,11 +122,27 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "173256110296d6b0fa": {
+      "type": "apps",
+      "blocks": {
+        "easyreviews_star_rating_FjmzWF": {
+          "type": "shopify://apps/easyreviews/blocks/star_rating/1341251b-09d7-46f3-ba6a-e732a50e97a5",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "easyreviews_star_rating_FjmzWF"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_collection",
-    "image_with_text_87d8EE"
+    "image_with_text_87d8EE",
+    "173256110296d6b0fa"
   ]
 }
