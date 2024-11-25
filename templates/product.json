@@ -99,7 +99,7 @@
         "columns_desktop": 4,
         "color_scheme": "scheme-ad1c8af2-5582-4347-8088-5489cc0d1458",
         "image_ratio": "square",
-        "image_shape": "diamond",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
