@@ -167,7 +167,14 @@
             {%- endif -%}
 
             <span class="caption-large light">{{ block.settings.description | escape }}</span>
-
+            <!-- Start of EasyReviews code -->
+            <div class="ezrv-widget-container" style="display: none">
+              <div class="ezrv-widget_rating_star_content star-small">
+                <span style="width: {{ card_product.metafields.easyreview.reviews.value.data.percentage }}%"></span>
+              </div>
+              <span>({{ card_product.metafields.easyreview.reviews.value.data.total_review | default: 0 }})</span>
+            </div>
+            <!-- End of EasyReviews code -->
             {%- if show_rating and card_product.metafields.reviews.rating.value != blank -%}
               {% liquid
                 assign rating_decimal = 0
