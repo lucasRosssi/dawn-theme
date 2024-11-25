@@ -61,6 +61,10 @@
             "text": "Check our <a href=\"https://cdn.shopify.com/s/files/1/0673/5331/3465/files/pdf.pdf?v=1732488300\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0673/5331/3465/files/pdf.pdf?v=1732488300\">sustainability efforts</a>",
             "text_style": "body"
           }
+        },
+        "easyreviews_product_review_4PaXVM": {
+          "type": "shopify://apps/easyreviews/blocks/product_review/1341251b-09d7-46f3-ba6a-e732a50e97a5",
+          "settings": {}
         }
       },
       "block_order": [
@@ -72,7 +76,8 @@
         "buy_buttons",
         "description",
         "share",
-        "text_g9mg6E"
+        "text_g9mg6E",
+        "easyreviews_product_review_4PaXVM"
       ],
       "settings": {
         "enable_sticky_info": true,
