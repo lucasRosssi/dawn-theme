@@ -27,6 +27,16 @@
           "type": "shopify://apps/easyreviews/blocks/star_rating/1341251b-09d7-46f3-ba6a-e732a50e97a5",
           "settings": {}
         },
+        "collapsible_tab_KgGpQM": {
+          "type": "collapsible_tab",
+          "source": "{{ product.metafields.models.model_info.value }}",
+          "settings": {
+            "heading": "",
+            "icon": "check_mark",
+            "content": "<p>{{ product.metafields.models.model_info.value.name.value }}{{ product.metafields.models.model_info.value.height | metafield_tag }}</p>",
+            "page": ""
+          }
+        },
         "price": {
           "type": "price",
           "settings": {}
@@ -75,6 +85,7 @@
         "vendor",
         "title",
         "easyreviews_star_rating_Eazyt7",
+        "collapsible_tab_KgGpQM",
         "price",
         "variant_picker",
         "quantity_selector",
