@@ -19,7 +19,10 @@
     },
     "call-to-action": {
       "type": "call-to-action",
-      "settings": {}
+      "settings": {
+        "pre-order-title": "Brace yourself, Winter is coming! ❄️",
+        "pre-order-text": "<p>You can pre-order <strong>now</strong>!</p><p>All products are <strong>15% </strong>off! And hurry up, discounts are only available until <strong>12/21</strong>.</p>"
+      }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
