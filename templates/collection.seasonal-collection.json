@@ -21,7 +21,7 @@
       "type": "call-to-action",
       "settings": {
         "pre-order-title": "Brace yourself, Winter is coming! ❄️",
-        "pre-order-text": "<p>You can pre-order <strong>now</strong>!</p><p>All products are <strong>15% </strong>off! And hurry up, discounts are only available until <strong>12/21</strong>.</p>"
+        "pre-order-text": "<p>You can pre-order <strong>now</strong>! </p><p>All products are <strong>15% </strong>off until <strong>12/21!</strong></p>"
       }
     },
     "product-grid": {
