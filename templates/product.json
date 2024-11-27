@@ -29,11 +29,10 @@
         },
         "collapsible_tab_KgGpQM": {
           "type": "collapsible_tab",
-          "source": "{{ product.metafields.models.model_info.value }}",
           "settings": {
-            "heading": "",
-            "icon": "check_mark",
-            "content": "<p>{{ product.metafields.models.model_info.value.name.value }}: Height: {{ product.metafields.models.model_info.value.height | metafield_tag }} Weight: {{ product.metafields.models.model_info.value.weight | metafield_tag }} Shoe size: {{ product.metafields.models.model_info.value.shoe_size.value }}</p>",
+            "heading": "Model measurements",
+            "icon": "silhouette",
+            "content": "<p>{{ product.metafields.models.model_info.value.name.value }}</p><ul><li>Height: {{ product.metafields.models.model_info.value.height | metafield_tag }} </li><li>Height: {{ product.metafields.models.model_info.value.weight | metafield_tag }} </li><li>Shoe size: {{ product.metafields.models.model_info.value.shoe_size.value }}</li></ul>",
             "page": ""
           }
         },
