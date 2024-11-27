@@ -33,7 +33,7 @@
           "settings": {
             "heading": "",
             "icon": "check_mark",
-            "content": "<p>{{ product.metafields.models.model_info.value.name.value }}{{ product.metafields.models.model_info.value.height | metafield_tag }}</p>",
+            "content": "<p>{{ product.metafields.models.model_info.value.name.value }}: Height: {{ product.metafields.models.model_info.value.height | metafield_tag }} Weight: {{ product.metafields.models.model_info.value.weight | metafield_tag }} Shoe size: {{ product.metafields.models.model_info.value.shoe_size.value }}</p>",
             "page": ""
           }
         },
