@@ -32,7 +32,7 @@
           "settings": {
             "heading": "Model measurements",
             "icon": "clipboard",
-            "content": "<p>{{ product.metafields.models.model_info.value.name.value }}</p><ul><li>Height: {{ product.metafields.models.model_info.value.height | metafield_tag }} </li><li>Height: {{ product.metafields.models.model_info.value.weight | metafield_tag }} </li><li>Shoe size: {{ product.metafields.models.model_info.value.shoe_size.value }}</li></ul>",
+            "content": "<p>{{ product.metafields.models.model_info.value.name.value }}</p><ul><li>Height: {{ product.metafields.models.model_info.value.height | metafield_tag }} </li><li>Weight: {{ product.metafields.models.model_info.value.weight | metafield_tag }} </li><li>Shoe size: {{ product.metafields.models.model_info.value.shoe_size.value }}</li></ul>",
             "page": ""
           }
         },
