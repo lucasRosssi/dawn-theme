@@ -90,7 +90,7 @@
         "text_7gPCHz": {
           "type": "text",
           "settings": {
-            "text": "<p>\"I can't say enough good things about this snowboard! From the moment I strapped in, I felt like I was floating on clouds. It provided the perfect balance of stability and agility. This board has exceeded all my expectations, and I can't wait to hit the slopes again!\" - Jeff from Albany</p>",
+            "text": "<p>\"I can't say enough good things about this snowboard! From the moment I strapped in, I felt like I was floating on clouds. It provided the perfect balance of stability and agility. This board has exceeded all my expectations, and I can't wait to hit the. slopes again!\" - Jeff from Albany</p>",
             "text_style": "body"
           }
         },
