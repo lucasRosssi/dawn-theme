@@ -78,6 +78,22 @@
               </thead>
 
               <tbody>
+                {% assign collection_handle = 'your-collection-handle' %}
+                {% assign specific_collection = collections[collection_handle] %}
+                {% if specific_collection %}
+                  <h2>{{ specific_collection.title }}</h2>
+                  <p>{{ specific_collection.description }}</p>
+                
+                  <ul>
+                    {% for product in specific_collection.products %}
+                      <li>
+                        <a href="{{ product.url }}">{{ product.title }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% else %}
+                  <p>Collection not found.</p>
+                {% endif %}
                 {%- for item in cart.items -%}
                   <tr class="cart-item" id="CartItem-{{ item.index | plus: 1 }}">
                     <td class="cart-item__media">
