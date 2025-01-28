@@ -61,6 +61,7 @@
           endif
         -%}
         {%- for block in section.blocks -%}
+          <!-- {{ block.settings.collection.handle }} -->
           {% if block.settings.collection.handle != 'free-gift' %}
             <li
               id="Slide-{{ section.id }}-{{ forloop.index }}"
