@@ -160,7 +160,7 @@
       },
       "15247839323734551960": {
         "type": "shopify://apps/salepify/blocks/cart-goal.embed/f616e94d-36ae-45cb-9d98-57804196c7a7",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
       }
     },
