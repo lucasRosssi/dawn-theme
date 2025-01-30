@@ -153,14 +153,14 @@
         "disabled": true,
         "settings": {}
       },
-      "15247839323734551960": {
-        "type": "shopify://apps/salepify/blocks/cart-goal.embed/f616e94d-36ae-45cb-9d98-57804196c7a7",
-        "disabled": true,
-        "settings": {}
-      },
       "6770548097779500122": {
         "type": "shopify://apps/koala-free-gift/blocks/gifts-embed/baf92dc5-8ffa-40c0-967e-57b74cddc9e3",
         "disabled": true,
+        "settings": {}
+      },
+      "15247839323734551960": {
+        "type": "shopify://apps/salepify/blocks/cart-goal.embed/f616e94d-36ae-45cb-9d98-57804196c7a7",
+        "disabled": false,
         "settings": {}
       }
     },
